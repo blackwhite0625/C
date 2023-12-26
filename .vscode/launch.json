@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/blackwhite/Desktop/Vs_Github/C",
+      "program": "/Users/blackwhite/Desktop/Vs_Github/C/build/Debug/outDebug"
+    }
+  ]
+}
