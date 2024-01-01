@@ -1,6 +1,6 @@
-apple
-data
-python
-golang
-c++
-java
+apple 50 100
+data 68 22
+python 32 66
+golang 21 90
+c++ 83 71
+java 45 94
