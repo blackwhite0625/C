@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/blackwhite/Desktop/Vs_Github/C/worktest/output/worktest1'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z3culii, symObjAddr: 0x0, symBinAddr: 0x1000035F4, symSize: 0x54 }
+  - { offsetInCU: 0x46, offset: 0x46, size: 0x8, addend: 0x0, symName: __Z3powB7v160006IiiENSt3__19enable_ifIXaasr3std13is_arithmeticIT_EE5valuesr3std13is_arithmeticIT0_EE5valueENS0_9__promoteIS2_S3_vEEE4type4typeES2_S3_, symObjAddr: 0x54, symBinAddr: 0x100003648, symSize: 0x44 }
+  - { offsetInCU: 0x52C, offset: 0x52C, size: 0x8, addend: 0x0, symName: __Z3culii, symObjAddr: 0x0, symBinAddr: 0x1000035F4, symSize: 0x54 }
+  - { offsetInCU: 0x566, offset: 0x566, size: 0x8, addend: 0x0, symName: __Z2cui, symObjAddr: 0x98, symBinAddr: 0x10000368C, symSize: 0x44 }
+  - { offsetInCU: 0x592, offset: 0x592, size: 0x8, addend: 0x0, symName: __Z2baii, symObjAddr: 0xDC, symBinAddr: 0x1000036D0, symSize: 0x20 }
+  - { offsetInCU: 0x5CC, offset: 0x5CC, size: 0x8, addend: 0x0, symName: __Z2buii, symObjAddr: 0xFC, symBinAddr: 0x1000036F0, symSize: 0x28 }
+  - { offsetInCU: 0x606, offset: 0x606, size: 0x8, addend: 0x0, symName: __Z12namedispalayv, symObjAddr: 0x124, symBinAddr: 0x100003718, symSize: 0x40 }
+  - { offsetInCU: 0x61F, offset: 0x61F, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x164, symBinAddr: 0x100003758, symSize: 0x600 }
+...
